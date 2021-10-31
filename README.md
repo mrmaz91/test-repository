@@ -1,5 +1,3 @@
-# test-repository
-this is a test description
+# first repo
 
-
-This is a new edit from my local computer.
+this one is the new test
